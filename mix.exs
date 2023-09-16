@@ -22,7 +22,7 @@ defmodule ClimateMonitor.MixProject do
   defp deps do
     [
       {:bmp280, "~> 0.2.12"},
-      {:req, "~> 0.3.11"}
+      {:req, "~> 0.4.3"}
     ]
   end
 end
